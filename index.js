@@ -1,2 +1,3 @@
 let a = 1
-export default a
+let b = 2
+export default { a, b }
