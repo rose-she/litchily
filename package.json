@@ -9,6 +9,10 @@
   },
   "author": "litchi",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rose-she/litchily.git"
+  },
   "devDependencies": {
     "standard-version": "^9.3.2"
   }
