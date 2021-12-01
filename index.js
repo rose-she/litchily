@@ -1,4 +1,5 @@
 let a = 1
 let b = 2
 let c = 3
-export default { a, b, c}
+let d = 4
+export default { a, b, c, d}
